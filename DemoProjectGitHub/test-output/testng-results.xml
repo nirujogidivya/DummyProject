@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Tc2 got passed]]>
+    </line>
+    <line>
+      <![CDATA[Tc1 got passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-07T14:08:49 IST" name="Default suite" finished-at="2023-06-07T14:08:49 IST" duration-ms="87">
+    <groups>
+    </groups>
+    <test started-at="2023-06-07T14:08:49 IST" name="Default test" finished-at="2023-06-07T14:08:49 IST" duration-ms="87">
+      <class name="testCases.Tc2Test">
+        <test-method signature="m2()[pri:0, instance:testCases.Tc2Test@272113c4]" started-at="2023-06-07T14:08:49 IST" name="m2" finished-at="2023-06-07T14:08:49 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tc2 got passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- testCases.Tc2Test -->
+      <class name="testCases.Tc1Test">
+        <test-method signature="m1()[pri:0, instance:testCases.Tc1Test@2e6a8155]" started-at="2023-06-07T14:08:49 IST" name="m1" finished-at="2023-06-07T14:08:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tc1 got passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- testCases.Tc1Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
