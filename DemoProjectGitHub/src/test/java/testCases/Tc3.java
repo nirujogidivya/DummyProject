@@ -8,6 +8,7 @@ public class Tc3 {
 	public void m3()
 	{
 		Reporter.log("Tc3 got passed",true);
+		Reporter.log("Divya updated",true);
 	}
 
 }
